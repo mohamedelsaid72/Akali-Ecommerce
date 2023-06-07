@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Live Preview
+[Akali Ecommerce](https://pinia-ecommerce.web.app/products)
